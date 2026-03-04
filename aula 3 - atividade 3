@@ -1,0 +1,14 @@
+algoritimo <vendendor>
+var
+
+leia(nome)
+leia(salario)
+leia(valor vendas)
+leia(comissao)
+
+escreva(" qual o nome do vendedor: ", vendedor)Fulano
+escreva("qual o salario fixo: ", salario)1200
+escreva("qual o valor total de vendas: ", vendas)200
+
+comissao <- 15% de 200
+escreva("quanto o vendedor ganhou de comissao: ",comissao) 30
