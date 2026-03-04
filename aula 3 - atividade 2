@@ -1,0 +1,15 @@
+Algoritimo <valor corrigido>
+
+
+var
+leia(letraA)
+leia(letraB)
+
+escreva("escreva o valor de A: ", letraA) 3
+escreva("escreva o valor de B: ", letraB) 5
+
+A <- letraA = 3
+B <- letraB = 5
+
+escreva(" o valor de A é: ")3
+escreva(" o valor de B é: ")5
